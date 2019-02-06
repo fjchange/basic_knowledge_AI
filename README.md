@@ -7,6 +7,6 @@ Some basic knowledges about AI. This repo is to collect links of relative knowle
 
 ## Contents（目录）:
 
-1. Distribution Discripancy (分布差异度量方法)
+1. Distribution Discrepancy (分布差异度量方法)
 2. Model Evaluation (模型评价标准)
 3. More ...
